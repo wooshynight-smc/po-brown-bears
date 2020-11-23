@@ -1,4 +1,5 @@
 body{
+	font-family: monospace;
 	font-size: 1.35em;
 	background-color: #f3f3f3;
 	padding:140;
@@ -27,6 +28,7 @@ body{
 	border-bottom: 10px solid white;
 	background-color:rgba(255, 255, 255, 0.64);
 	color:black;
+	font-family: monospace;
 	text-decoration:none;
 	padding: 5px 10px;
 	position:relative;
@@ -43,6 +45,7 @@ body{
 }
 
 h1{
+	font-family: monospace;
 	background-color: #b68052;
 	margin: 20px;
 	padding: 10px 20px;
@@ -50,19 +53,22 @@ h1{
 }
 
 h2{
-  font-family:Georgia;
+	font-family: monospace;
 }
 
 .top-nav ul{
+	font-family: monospace;
 	list-style-type:none;
 }
 
 .top-nav ul li{
+	font-family: monospace;
 	transition: all 300ms ease;
 	left:0px;
 	position:relative;
 }
 
 .top-nav ul li:hover{
+	font-family: monospace;
 	left: 4px;
 }
