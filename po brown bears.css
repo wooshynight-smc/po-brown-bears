@@ -1,7 +1,8 @@
 body{
+	font-size: 1.2em;
 	background-color: #f3f3f3;
-	padding:0;
-	margin:0;
+	padding:200;
+	margin:150;
 }
 
 .page {
@@ -12,12 +13,12 @@ body{
 	overflow: hidden;
 }
 
-.main-nav{
-	background-image:url(https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg);
-	background-repeat:no-repeat;
-	background-size:cover;
-	background-position:center -60px;
-	padding: 100px 20px 0px 20px;
+.main-nav {
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center -60px;
+    padding: 100px 20px 0px 20px;
 }
 
 .main-nav a{
