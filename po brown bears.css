@@ -72,3 +72,8 @@ h2{
 	font-family: monospace;
 	left: 4px;
 }
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
